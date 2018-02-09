@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
      $(".btn").sideNav({
-         menuWidth: 200, 
+         menuWidth: 600, 
      });
      
 })
