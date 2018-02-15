@@ -1,18 +1,43 @@
-.nav {
-    width: 100%;
-    height: auto;
-}
-
+/* estilos de carousel  */
 .carousel-item {
-    color: black;
+    color: #fff;
     text-align: center;
     font-size: 20px;
 }
 .carousel {
-    background: url(../IMG/brillante-flujo-azul_1182-606.jpg);
+    background: url(../IMG/fondocarousel.jpg);
    
 }
+/* estilos de footer  */
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
 
-.nav-wrapper {
-    color: red;
+  main {
+    flex: 1 0 auto;
+  }
+.page-footer {
+    height: 130px;
 }
+
+#footer {
+    height: 200px;
+}
+
+/* estilos de imagenes  */
+
+#img1 {
+    margin: 0px;
+    width: 100%;
+    
+}
+
+#img2 {
+    width: 100%;
+    margin: 0px;
+}
+
+
+
