@@ -23,7 +23,7 @@
 }
 
 #footer {
-    height: 200px;
+    height: 170px;
 }
 
 /* estilos de imagenes  */
@@ -37,6 +37,29 @@
 #img2 {
     width: 100%;
     margin: 0px;
+}
+
+.i {
+    display:inline-block;
+}
+
+
+
+/*estilos del acordeon */
+
+
+
+.collapsible {
+    width: 300px;
+    position: relative;
+    left: 15px;
+    top: 10px;
+}
+
+
+.carro {
+    position: relative
+    top: 20px;
 }
 
 
