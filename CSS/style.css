@@ -18,12 +18,13 @@
   main {
     flex: 1 0 auto;
   }
-.page-footer {
-    height: 130px;
-}
 
 #footer {
-    height: 170px;
+    height: 310px;
+}
+#foote {
+    position: relative;
+    top: 40px;
 }
 
 /* estilos de imagenes  */
@@ -63,10 +64,20 @@
 }
 
 
-
-
-
-
+/*estilos de contacto js*/
+#ul li {
+    display: inline-block;
+    
+}
+#face {
+    height: 25px;
+}
+#whatss {
+    height: 28px;
+}
+#mail {
+    height: 28px;
+}
 
 
 
